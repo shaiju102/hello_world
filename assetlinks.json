@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.abbvie.patientapp",
+    "sha256_cert_fingerprints":
+    ["02:9B:5A:DF:85:AB:DF:32:8C:9D:3B:7C:78:0C:9A:56:CB:1B:0B:D8:F8:CF:4E:3A:3A:3F:AD:88:D7:79:ED:72"]
+  }
+}]
